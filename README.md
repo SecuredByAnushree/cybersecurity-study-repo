@@ -1,2 +1,3 @@
-# cybersecurity-study-repo
-A curated repository of cybersecurity notes, tools, labs, and personal research work. This collection covers key areas like threat detection, incident response, vulnerability assessment, and blue team operations. Ideal for learners and professionals looking to strengthen their defensive security skills.
+# Cybersecurity Study Repo
+
+Welcome to the **Cybersecurity Study Repo**! This is a curated collection of resources, notes, tools, labs, and personal research work focused on cybersecurity. Whether you're a learner or a professional, this repository aims to strengthen your skills in both **offensive** and **defensive** security practices.
